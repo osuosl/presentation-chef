@@ -1,0 +1,12 @@
+.slides {
+    background-color: lightblue;
+}
+
+article h2 {
+    color: orange;
+}
+
+.docutils.literal {
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1) inset;
+    background: none repeat scroll 0% 0% #F0F0F0;
+}
