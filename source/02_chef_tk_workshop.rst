@@ -6,6 +6,11 @@
 Hands On Chef
 =============
 
+Jordan Evans
+
+Operating Systems and Network Analyst
+
+OSU Open Source Lab
 
 Foodcritic
 ==========
