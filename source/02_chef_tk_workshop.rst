@@ -236,7 +236,7 @@ Ask someone else to review it:
 .. image:: _static/pr_pono.png
 
 Pull Requests!
-=============
+==============
 
 Merge!
 
@@ -245,7 +245,7 @@ Merge!
 .. image:: _static/merge.png
 
 Pull Requests!
-=============
+==============
 
 Merged!
 
