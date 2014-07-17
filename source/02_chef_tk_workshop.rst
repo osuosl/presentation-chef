@@ -12,7 +12,7 @@ Foodcritic
 
 * Lints cookbooks
 * Not Perfect
-* Rules follow <code>/FC\d\d\d/</code> where the leading digits are padded 0s
+* Rules follow ``/FC\d\d\d/`` where the leading digits are padded 0s
 
 .. code-block:: bash
 
