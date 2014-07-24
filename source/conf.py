@@ -279,7 +279,7 @@ slide_levels = 3
 
 slide_theme_options = {
     'custom_css': 'custom.css'
-#     'custom_js': 'custom.js',
+     'custom_js': 'ga.js',
 }
 
 # ----------------------------------------------
